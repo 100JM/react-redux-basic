@@ -4,4 +4,5 @@
 
 ### `Redux에 대한 이해`
 ### `Redux devtools`
-진행중... 2022-09-27
+
+![image](https://user-images.githubusercontent.com/85985604/192826838-bf0bba7a-f10c-4274-b9c7-9483040b25fd.png)
