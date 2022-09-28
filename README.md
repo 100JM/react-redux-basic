@@ -5,4 +5,4 @@
 ### `Redux에 대한 이해`
 ### `Redux devtools`
 
-![image](https://user-images.githubusercontent.com/85985604/192826838-bf0bba7a-f10c-4274-b9c7-9483040b25fd.png)
+![image](https://user-images.githubusercontent.com/85985604/192827004-5e7bd65f-83ca-4e1c-bdaf-aaa94f2cfd05.png)
